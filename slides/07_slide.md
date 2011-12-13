@@ -1,0 +1,3 @@
+!SLIDE center
+
+![](impact.png)

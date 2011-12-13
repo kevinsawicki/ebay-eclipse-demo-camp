@@ -1,0 +1,3 @@
+!SLIDE center
+
+![](activity.png)
